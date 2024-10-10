@@ -1,6 +1,6 @@
-## sentiReeder: Sentiment Analysis for News Feeds
+## NLPulse: Sentiment Analysis for News Feeds
 
-**sentiReeder** is a Python program that analyzes the sentiment of news headlines and summaries from RSS feeds. It utilizes a combination of two powerful techniques:
+**NLPulse** is a Python program that analyzes the sentiment of news headlines and summaries from RSS feeds. It utilizes a combination of two powerful techniques:
 
 * **NLTK VADER Sentiment Analysis:** This provides a baseline sentiment score based on a pre-built lexicon.
 * **FinBERT Fine-tuned Sentiment Analysis:** This leverages a pre-trained deep learning model (FinBERT) specifically designed for financial news analysis, but also applicable to general news.
