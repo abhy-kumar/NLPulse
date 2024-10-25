@@ -1,4 +1,4 @@
-## Note: Would really appreciate some help with increasing the performance of the duplication checker function. Right now that function single handedly slows down the program by a lot. 
+![image](https://github.com/user-attachments/assets/6b165344-a96a-4d9c-a73f-495708bcae74)## Note: Would really appreciate some help with increasing the performance of the duplication checker function. Right now that function single handedly slows down the program by a lot. 
 
 ## NLPulse
 
@@ -15,6 +15,7 @@ This Python-based project is designed to analyze sentiment from news articles fe
 - **Data Storage**: Sentiment results, along with article metadata, are stored in an SQLite database for future analysis.
 - **Visualizations**: A comprehensive dashboard is generated with multiple plots to visualize sentiment trends over time.
 
+![img](https://iili.io/2fSCd6g.png)
 ![img](https://iili.io/2fSF41f.png)
 
 ## Project Structure
