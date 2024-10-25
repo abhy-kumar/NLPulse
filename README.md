@@ -1,3 +1,5 @@
+## Note: Would really appreciate some help with increasing the performance of the duplication checker function. Right now that function single handedly slows down the program by a lot. 
+
 ## NLPulse
 
 This Python-based project is designed to analyze sentiment from news articles fetched via RSS feeds, store the sentiment data in a SQLite database, and visualize the results using interactive dashboards. The project combines multiple natural language processing (NLP) models and libraries to ensure a robust sentiment analysis pipeline, providing an overview of sentiment trends across different days, times, and topics.
