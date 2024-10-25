@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6b165344-a96a-4d9c-a73f-495708bcae74)## Note: Would really appreciate some help with increasing the performance of the duplication checker function. Right now that function single handedly slows down the program by a lot. 
+## Note: Would really appreciate some help with increasing the performance of the duplication checker function. Right now that function single handedly slows down the program by a lot. 
 
 ## NLPulse
 
