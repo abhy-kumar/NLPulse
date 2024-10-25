@@ -15,6 +15,8 @@ This Python-based project is designed to analyze sentiment from news articles fe
 - **Data Storage**: Sentiment results, along with article metadata, are stored in an SQLite database for future analysis.
 - **Visualizations**: A comprehensive dashboard is generated with multiple plots to visualize sentiment trends over time.
 
+[img](https://iili.io/2fSF41f.png)
+
 ## Project Structure
 
 - **Cell 1**: Contains the necessary imports and setup. Libraries like NLTK, transformers, and Plotly are used.
