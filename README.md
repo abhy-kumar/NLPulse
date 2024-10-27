@@ -12,44 +12,6 @@ A comprehensive Python application that performs real-time sentiment analysis on
 - **Duplicate Detection**: Intelligent similarity-based duplicate removal
 - **Comprehensive Analysis**: Including timeline views, sentiment distributions, and statistical breakdowns
 
-## 🔧 Installation
-
-### Prerequisites
-- Python 3.8+
-- CUDA-compatible GPU (optional, for faster processing)
-
-### Required Packages
-```bash
-pip install nltk torch requests feedparser pandas plotly numpy transformers wordcloud seaborn matplotlib sqlite3
-```
-
-### Initial Setup
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/news-sentiment-analysis.git
-cd news-sentiment-analysis
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Initialize the database:
-```python
-python setup_database.py
-```
-
-## 🚀 Usage
-
-### Basic Usage
-```python
-from news_analysis import run_analysis
-
-# Run the complete analysis
-run_analysis()
-```
-
 ### Custom Configuration
 ```python
 from news_analysis import DatabaseManager, SentimentAnalyzer, DataVisualizer
