@@ -92,28 +92,6 @@ remove_duplicates(db_path='news_sentiment.db', similarity_threshold=0.90)
 - Batch processing capabilities
 - GPU acceleration when available
 
-## 🔧 Troubleshooting
-
-### Common Issues
-
-1. **Database Initialization Error**
-```python
-# Run database setup script
-python setup_database.py
-```
-
-2. **CUDA/GPU Issues**
-```python
-# Force CPU-only mode
-import os
-os.environ['CUDA_VISIBLE_DEVICES'] = ''
-```
-
-3. **Memory Management**
-- Adjust batch sizes for large datasets
-- Enable garbage collection for long-running processes
-- Monitor memory usage with logging
-
 ## 📝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
