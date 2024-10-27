@@ -1,5 +1,6 @@
 # News Sentiment Analysis Dashboard
 
+![img](https://iili.io/2qmnX8Q.png)
 ## 📊 Overview
 A comprehensive Python application that performs real-time sentiment analysis on news headlines, storing the results in a SQLite database and generating interactive visualizations. The system employs multiple sentiment analysis models, including VADER, FinBERT, and RoBERTa, to provide nuanced sentiment scoring.
 
