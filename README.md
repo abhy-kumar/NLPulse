@@ -1,5 +1,3 @@
-# News Sentiment Analysis Dashboard
-
 ![img](https://iili.io/2qmnX8Q.png)
 ## 📊 Overview
 A comprehensive Python application that performs real-time sentiment analysis on news headlines, storing the results in a SQLite database and generating interactive visualizations. The system employs multiple sentiment analysis models, including VADER, FinBERT, and RoBERTa, to provide nuanced sentiment scoring.
@@ -64,13 +62,10 @@ CREATE TABLE sentiment_scores (
 
 ## 🔍 Duplicate Detection
 
-The system includes sophisticated duplicate detection functionality:
+The project includes functions to:
 
-### Features
-- Text similarity comparison using SequenceMatcher
-- Configurable similarity threshold
-- Comparison of both titles and summaries
-- Automatic removal of duplicate entries while preserving originals
+- Eliminate duplicate or near-duplicate entries based on a similarity threshold.
+- Provide analysis and cleanup of the dataset for better performance and accuracy.
 
 ### Configuration
 ```python
